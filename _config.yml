@@ -27,11 +27,11 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "https://4.bp.blogspot.com/-dHtz9PmTppA/WZxTuHdx9-I/AAAAAAAAIrg/ofcCbezHUiEQ2wtxU9sqsgZ0FWfzLP9KgCK4BGAYYCw/s1600/logo%2B%25281%2529.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
- title-img: https://4.bp.blogspot.com/-dHtz9PmTppA/WZxTuHdx9-I/AAAAAAAAIrg/ofcCbezHUiEQ2wtxU9sqsgZ0FWfzLP9KgCK4BGAYYCw/s1600/logo%2B%25281%2529.png
+ title-img: "https://4.bp.blogspot.com/-dHtz9PmTppA/WZxTuHdx9-I/AAAAAAAAIrg/ofcCbezHUiEQ2wtxU9sqsgZ0FWfzLP9KgCK4BGAYYCw/s1600/logo%2B%25281%2529.png"
 
 # --- Background colour/image options --- #
 
@@ -50,7 +50,7 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-# navbar-img: "/img/bgimage.png"
+ navbar-img: "https://4.bp.blogspot.com/-dHtz9PmTppA/WZxTuHdx9-I/AAAAAAAAIrg/ofcCbezHUiEQ2wtxU9sqsgZ0FWfzLP9KgCK4BGAYYCw/s1600/logo%2B%25281%2529.png"
 # footer-img: "/img/bgimage.png"
 # page-img: "/img/bgimage.png"
 
