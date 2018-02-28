@@ -729,7 +729,7 @@ td.gutter {
 }
 
 .navbar-default {
-  border-bottom: none !important;
+  border-color: none !important;
 }
 /* Fix table border github gist snippets */
 
